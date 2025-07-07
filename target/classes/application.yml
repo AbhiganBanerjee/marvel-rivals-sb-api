@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: marvel-rivals-sb-api
+  data:
+    mongodb:
+      database: node_react_integration
+      uri: mongodb+srv://system:tiger@mymongodb.vbqay2j.mongodb.net/mymongodb?retryWrites=true&w=majority
